@@ -64,7 +64,7 @@
             </div>
             <div class="col-9,5">
                  <?php
-                   include('arraybarang.php');
+                   include('');
                  ?> 
            </div>
         </div>

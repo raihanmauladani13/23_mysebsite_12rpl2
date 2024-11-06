@@ -2,7 +2,7 @@
     //PROSES DELETE DATA
     if(isset($_GET['delete'])){
         $id= $_GET['id'];
-        $query_delete = mysqli_query($konek,"DELETE FROM anggota WHERE id_anggota ='$id'");
+        $query_delete = mysqli_query();
         if ($query_delete ){
             ?>
             <div class="alert alert-success">

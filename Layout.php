@@ -12,7 +12,7 @@
         <!-- HEADER -->
         <div class="row">
             <div class="col">
-                <img src="banner coding.jpg" width="100%" alt="">
+                <img src="" width="100%" alt="">
             </div>
         </div>
         <!-- END HEADER -->

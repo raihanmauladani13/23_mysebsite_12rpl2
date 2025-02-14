@@ -1,1 +1,1 @@
-<h1>BUKU BELAJAR</h1>
+<h1>BUKU</h1>

@@ -15,7 +15,7 @@
         <!-- HEADER -->
         <div class="row">
             <div class="col">
-                <img src="coding banner.jpg" width="100%" alt="">
+                <img src="" width="100%" alt="">
             </div>
         </div>
         <!-- END HEADER -->

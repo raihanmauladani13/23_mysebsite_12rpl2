@@ -118,8 +118,8 @@ if($query_insert){
             <div class="form-group mt-3">
                 <SELECT class="form-control" name="jurusan">
                     <option value="">---PILIH JURUSAN---</option>
-                    <option value="RPL">RPL</option>
                     <option value="AOV">AOV</option>
+                    <option value="RPL">RPL</option>
                     <option value="TKR">TKR</option>
                 </SELECT>
             </div>

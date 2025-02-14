@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ko<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -50,7 +50,7 @@ if (isset($_POST['login'])) {
 }else{
     ?>
     <script>
-        alert('username atau password ada salah !!!');
+        alert('username atau password anda salah !!!');
     </script>
     <?php
     }  
